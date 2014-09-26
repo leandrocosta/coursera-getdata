@@ -23,6 +23,8 @@ Labels are loaded from `UCI HAR Dataset/test/y_test.txt` and `UCI HAR Dataset/tr
 
 ##### 5. extract only mean and standard deviation of each measurement;
 
+According to feature names (loaded from `UCI HAR Dataset/features.txt`) all features that
+
 ##### 6. use descriptive activity names to name the activities in the datasets;
 
 ##### 7. merge test and train datasets, also adding subject and label to each measurement;
