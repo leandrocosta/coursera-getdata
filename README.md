@@ -1,7 +1,5 @@
-coursera-getdata
-================
-
 Coursera - Getting and Cleaning Data's course project
+=====================================================
 
 In this repository you will find:
 
